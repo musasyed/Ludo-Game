@@ -1,0 +1,2 @@
+# Ludo-Game
+In This project, I design a dice game which is played between two players if player 1 have more dice then he win if other player have more dice then he won. It includes HTML,CSS and javascript which i learned from "Dr. Angela Yu" Course 
